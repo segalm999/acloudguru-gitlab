@@ -8,7 +8,8 @@
 - git commit: Commit changes from staging area to current branch
 - git config: Set or get configuration
 - git log: Show history of projects commits
-
+- git branch -c: Create a branch
+- git checkout: Check out (switch to) a branch
 ## Commit messages
 
 Default editor is vim (this can be changed)
