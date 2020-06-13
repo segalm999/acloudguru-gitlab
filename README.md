@@ -18,6 +18,9 @@
 - git stash: Stash changes from working directory
 - git stash list: List stashes
 - git stash pop: Apply stashed changes to working directory
+- git remote add <remote> <url>: ADd a new <remote> at <url>
+- git remote -v: List remote repositories
+- git push -u <remote> <branch>: Push <branch> to <remote>, and set default upstream for <branch>
 
 ## What's a branch?
 
