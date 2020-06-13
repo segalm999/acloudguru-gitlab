@@ -15,7 +15,9 @@
 - git branch -c: Create a branch
 - git branch: list branches
 - git merge: Merge changes from different branches
-
+- git stash: Stash changes from working directory
+- git stash list: List stashes
+- git stash pop: Apply stashed changes to working directory
 
 ## What's a branch?
 
