@@ -21,6 +21,7 @@
 - git remote add <remote> <url>: ADd a new <remote> at <url>
 - git remote -v: List remote repositories
 - git push -u <remote> <branch>: Push <branch> to <remote>, and set default upstream for <branch>
+- get fetch: Fetch changes from remote repository
 
 ## What's a branch?
 
