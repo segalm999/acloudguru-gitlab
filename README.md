@@ -8,12 +8,14 @@
 - git commit: Commit changes from staging area to current branch
 - git config: Set or get configuration
 - git log: Show a history (aka "logo") of projects commits
+- git show: Show a singl commits
+- git diff: Show the difference between commits, the working directory, and the staging areas
 - git checkout: Checkout out branch (update HEAD and apply changes to working directory)
+- git checkout -b: Create branch, then check it out
 - git branch -c: Create a branch
 - git branch: list branches
 - git merge: Merge changes from different branches
-- git checkout: check out a branch (update HEAD)
-- git checkout -b: Create branch, then check it out
+
 
 ## What's a branch?
 
